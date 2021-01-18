@@ -1,0 +1,7 @@
+L:\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe.config
+L:\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe
+L:\ClassMetotDemo\bin\Debug\ClassMetotDemo.pdb
+L:\ClassMetotDemo\obj\Debug\ClassMetotDemo.csprojAssemblyReference.cache
+L:\ClassMetotDemo\obj\Debug\ClassMetotDemo.csproj.CoreCompileInputs.cache
+L:\ClassMetotDemo\obj\Debug\ClassMetotDemo.exe
+L:\ClassMetotDemo\obj\Debug\ClassMetotDemo.pdb
